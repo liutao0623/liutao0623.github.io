@@ -42,6 +42,12 @@ Disqus被墙，而我又极少翻墙。所以也不再考虑之列，最后也�
 
 ![/styles/images/yungentie/01.png]({{ '/styles/images/yungentie/01.png' | prepend: site.baseurl  }})
 
+登录云跟帖			{#login-test}
+---------------------
+
+我是测试小标题
+
+
 初始化			{#init-yungentie}
 ---------------------
 
